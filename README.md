@@ -2,7 +2,7 @@
 Dedicated a Tag With Js
 
 
-**One Of The First Code's I Wrote In Javascript**
+**One Of The First Code's I Wrote In JavaScript**
 
 
 
