@@ -1,5 +1,5 @@
 # tag A html
-Dedicated a Tag with js
+Dedicated a Tag With js
 
 
 **One of the first codes I wrote in JavaScript**
